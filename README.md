@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on :<br>A project to buy and sell a used car<br>👯 I’m looking to collaborate on:<br> looking to learn as much as I can!<br>🌱 I’m currently learning:<br>All the league I need to get over myself<br>⚡ Fun fact
+🔭 I’m currently working on :<br>A project to buy and sell a used cars<br>👯 I’m looking to collaborate on:<br> looking to learn as much as I can!<br>🌱 I’m currently learning:<br>All the league I need to get over myself<br>⚡ Fun fact
 
 
 ## 🌐 Socials:

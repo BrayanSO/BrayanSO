@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Trabajo en :<br>un proyecto de pagina para comprar y vender vehículos Usados <br>👯 Busco  :<br> aprender todo lo que pueda y dar mi 100%!<br>🌱 
-actualmente estoy aprendiendo :<br>Todo leguae que sirva para superarme!<br>⚡ Fun fact
+actualmente estoy aprendiendo :<br>Todo lenguaje que sirva para superarme!<br>⚡ 
 
 
 ## 🌐 Socials:

@@ -49,8 +49,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BrayanSO/BrayanSO/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"  />
+</div>
 
 ###

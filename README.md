@@ -1,19 +1,6 @@
 <br clear="both">
 
-<p align="left">🔭 Trabajo en :<br>Un proyecto de página para comprar y vender vehículos usados.<br>👯 Busco :<br>Aprender todo lo que pueda y dar mi 100%!<br>🌱 actualmente estoy aprendiendo :<br>Todo lenguaje que sirva para superarme!<br>⚡</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="linkedin.com/in/brayanso" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="briansolera@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
+<p align="center">🔭 Trabajo en :<br>Un proyecto de página para comprar y vender vehículos usados.<br>👯 Busco :<br>Aprender todo lo que pueda y dar mi 100%!<br>🌱 actualmente estoy aprendiendo :<br>Todo lenguaje que sirva para superarme!⚡</p>
 
 ###
 
@@ -45,6 +32,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="linkedin.com/in/brayanso" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="briansolera@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###

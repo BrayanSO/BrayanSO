@@ -10,7 +10,7 @@
 - 🌎 Inglés B2 | Costa Rica
 
 ### Proyectos destacados
-- [Carhalla — Testing sobre proyecto full-stack](url-del-repo) — casos de prueba funcionales y de API sobre mi propio proyecto en React
+- [Carhalla — Testing sobre proyecto full-stack](https://github.com/BrayanSO/Carhalla) — casos de prueba funcionales y de API sobre mi propio proyecto en React
 - [Automatización con Cypress](url-del-repo) — 🚧 en progreso
 
 📫 briansolera@gmail.com | [LinkedIn](https://www.linkedin.com/in/brayanso/)</p>

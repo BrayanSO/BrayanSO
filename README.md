@@ -13,6 +13,7 @@
 - [Carhalla — Car Sales Platform](https://github.com/BrayanSO/Carhalla) — full-stack project (React + Flask) with manual and API test cases
 - [Cypress Automation](https://github.com/BrayanSO/nombre-del-repo) — 🚧 in progress
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brayanso.github.io/Porfolio/)
 
 ###
 
@@ -53,6 +54,7 @@
 
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"  />
+  
 </div>
 
 ###

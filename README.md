@@ -13,7 +13,6 @@
 - [Carhalla — Car Sales Platform](https://github.com/BrayanSO/Carhalla) — full-stack project (React + Flask) with manual and API test cases
 - [Cypress Automation](https://github.com/BrayanSO/nombre-del-repo) — 🚧 in progress
 
-📫 [briansolera@gmail.com](mailto:briansolera@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brayanso/)</p>
 
 ###
 
@@ -36,10 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
@@ -55,6 +50,7 @@
   <a href="https://www.linkedin.com/in/brayanso/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+  
   <a href="mailto:briansolera@gmail.com target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>

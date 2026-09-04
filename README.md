@@ -1,6 +1,19 @@
 <br clear="both">
 
-<p align="center">🔭 Trabajo en :<br>Un proyecto de página para comprar y vender vehículos usados.<br>👯 Busco :<br>Aprender todo lo que pueda y dar mi 100%!<br>🌱 actualmente estoy aprendiendo :<br>Todo lenguaje que sirva para superarme!⚡</p>
+<p align="center"># Hola, soy Brayan Solera Oconitrillo 👋
+## QA Engineer | QA Automation (Cypress · Postman)
+
+- 🧪 Testing manual y automatizado: funcional, regresión, smoke, exploratorio
+- 🎯 Automatización de pruebas UI con Cypress
+- 🔌 API Testing con Postman
+- 💻 Base full-stack (React, JavaScript, SQL) — entiendo el código que pruebo
+- 🌎 Inglés B2 | Costa Rica
+
+### Proyectos destacados
+- [Carhalla — Testing sobre proyecto full-stack](url-del-repo) — casos de prueba funcionales y de API sobre mi propio proyecto en React
+- [Automatización con Cypress](url-del-repo) — 🚧 en progreso
+
+📫 briansolera@gmail.com | [LinkedIn](https://www.linkedin.com/in/brayanso/)</p>
 
 ###
 

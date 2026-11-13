@@ -1,62 +1,37 @@
-<br clear="both">
+# Hi, I'm Brayan Solera Oconitrillo 👋
 
-<p align="center"># Hi, I'm Brayan Solera Oconitrillo 👋
-## QA Engineer | QA Automation (Cypress · Postman)
+### QA Engineer & Web Developer · Costa Rica · English B2
 
-- 🧪 Manual and automated testing: functional, regression, smoke, exploratory
-- 🎯 UI test automation with Cypress
-- 🔌 API testing with Postman
-- 💻 Full-stack foundation (React, JavaScript, SQL) — I understand the code I test
-- 🌎 English B2 | Costa Rica
+I test software like a QA engineer and I build and ship real web products. My recent projects were built by directing AI coding agents (Claude Code), with me owning the rules, the test plan and the final check of every result.
 
-### Featured Projects
-- [Carhalla — Car Sales Platform](https://github.com/BrayanSO/Carhalla) — full-stack project (React + Flask) with manual and API test cases
-- [Cypress Automation](https://github.com/BrayanSO/nombre-del-repo) — 🚧 in progress
+- 🧪 Manual and automated testing: functional, regression, smoke and exploratory · Cypress · Postman · pgTAP
+- 🛠️ Web products end to end: Svelte, React, JavaScript, Supabase (Postgres), Cloudflare Workers
+- ✅ Every change goes through a test environment before production
 
-<a href="https://brayanso.github.io/Porfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" width="220" alt="Portfolio"/>
-</a>
+## Featured projects
 
-###
+| Project | What it is | Links |
+|---|---|---|
+| **Citas** | Booking SaaS for small businesses: Svelte owner panel, embeddable booking widget, Supabase backend with row-level security and 32 pgTAP database tests. | [Code](https://github.com/BrayanSO/Citas) · [Live demo](https://dental.newcodecr.com/#agenda) |
+| **NewCode CR** | My web studio. Live demo businesses (restaurant ordering, dental booking, real estate, car dealer) and real client sites, with test and production environments on Cloudflare. | [newcodecr.com](https://newcodecr.com) |
+| **Autos360** | Car dealers record a short video and get a real 3D model of the car (Gaussian Splatting), with catalog, listings and a multi-dealer dashboard on Cloudflare Workers, D1 and R2. | [Live demo](https://autos360.autos360.workers.dev/autos360/#auto/e2ae0dc1) |
+| **Forex ML Validation Lab** | Tested 30+ trading strategies against 347M real market ticks and caught 3 measurement bugs that made losing strategies look profitable. | [Case study](https://github.com/BrayanSO/Porfolio/blob/main/writing/01-case-study-trading-strategies.md) |
 
-<br clear="both">
+## Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-###
+## Contact
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/brayanso/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:briansolera@gmail.com target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"  />
-  
-</div>
-
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brayanso.github.io/Porfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanso/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:briansolera@gmail.com)

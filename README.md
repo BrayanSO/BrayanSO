@@ -12,7 +12,7 @@ I test software like a QA engineer and I build and ship real web products. My re
 
 | Project | What it is | Links |
 |---|---|---|
-| **Citas** | Booking SaaS for small businesses: Svelte owner panel, embeddable booking widget, Supabase backend with row-level security and 32 pgTAP database tests. | [Code](https://github.com/BrayanSO/Citas) · [Live demo](https://dental.newcodecr.com/#agenda) |
+| **Citas** | Booking SaaS for small businesses: Svelte owner panel, embeddable booking widget, Supabase backend with row-level security and 32 pgTAP database tests. | [Live demo](https://dental.newcodecr.com/#agenda) |
 | **NewCode CR** | My web studio. Live demo businesses (restaurant ordering, dental booking, real estate, car dealer) and real client sites, with test and production environments on Cloudflare. | [newcodecr.com](https://newcodecr.com) |
 | **Autos360** | Car dealers record a short video and get a real 3D model of the car (Gaussian Splatting), with catalog, listings and a multi-dealer dashboard on Cloudflare Workers, D1 and R2. | [Live demo](https://autos360.autos360.workers.dev/autos360/#auto/e2ae0dc1) |
 | **Forex ML Validation Lab** | Tested 30+ trading strategies against 347M real market ticks and caught 3 measurement bugs that made losing strategies look profitable. | [Case study](https://github.com/BrayanSO/Porfolio/blob/main/writing/01-case-study-trading-strategies.md) |
